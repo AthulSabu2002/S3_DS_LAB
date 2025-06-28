@@ -54,7 +54,7 @@ Data Structures and Algorithms lab programs implemented in C for S3 CSE B.Tech c
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/dsa-lab.git
+   git clone https://github.com/AthulSabu2002/S3_DS_LAB.git
    cd dsa-lab
    ```
 
